@@ -65,11 +65,3 @@ This project is a flight booking system developed in Java. It allows users to bo
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out.
